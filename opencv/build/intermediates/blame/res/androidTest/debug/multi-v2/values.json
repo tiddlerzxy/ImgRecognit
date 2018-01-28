@@ -1,0 +1,12 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Android\\AndroidStdioWorkSpace\\ImgRecognition\\opencv\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+            "map": []
+        },
+        {
+            "outputFile": "D:\\Android\\AndroidStdioWorkSpace\\ImgRecognition\\opencv\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": []
+        }
+    ]
+}
